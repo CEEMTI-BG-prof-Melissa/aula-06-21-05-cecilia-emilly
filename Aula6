@@ -1,0 +1,27 @@
+<html>
+  <head>
+    <title>aula6</title>
+  </head>
+  <body>
+      <form>
+           <p>
+              Nome completo:<input type="text">
+           </p>
+           <p>
+              Senha:<input type="password">
+          <p>
+              E-mail:<input type="e-mail">
+          </p>
+          <p>
+              Data de nascimento:<input type="date">
+          </p>
+         <p>
+              Idade:<input type="number">
+            <br>  
+            <input type="submit">
+           
+         </p>
+         
+      </form>
+  </body>
+</html>
